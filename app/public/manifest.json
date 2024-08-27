@@ -1,0 +1,9 @@
+{
+  "short_name": "Gorgias Bot",
+  "name": "Gorgias Bot",
+  "icons": [],
+  "start_url": "https://aenimatech.com/rtl",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
